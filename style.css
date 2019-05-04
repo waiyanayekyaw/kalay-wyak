@@ -1,0 +1,59 @@
+body {
+  background: #f9f9f9; }
+
+.hero {
+  background: url("images/home-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 50vh 0; }
+
+.btn {
+  background-color: black;
+  color: white;
+  border-radius: 50px; }
+
+.btn:hover {
+  background-color: white;
+  color: black;
+  border-radius: 50px; }
+
+.hero {
+  color: #fff; }
+
+.skill {
+  padding: 10px 0; }
+
+.about {
+  padding: 20px 0; }
+
+.design {
+  padding: 20px 0; }
+
+.contact {
+  padding: 20px 0; }
+
+.footer {
+  color: white;
+  background-color: blueviolet;
+  padding: 80px 0; }
+
+#profile {
+  border-radius: 20px; }
+
+.text {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+
+.box {
+  background-color: white;
+  padding: 30px 20px;
+  min-height: 200px;
+  border-radius: 10px; }
+
+.box1 {
+  padding: 21px 20px;
+  background-color: white;
+  min-height: 200px;
+  border-radius: 10px; }
